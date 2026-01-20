@@ -1,0 +1,101 @@
+ProductID,Title,Category,Brand,Rating
+1,Essence Mascara Lash Princess,beauty,Essence,2.56
+2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,2.86
+3,Powder Canister,beauty,Velvet Touch,4.64
+4,Red Lipstick,beauty,Chic Cosmetics,4.36
+5,Red Nail Polish,beauty,Nail Couture,4.32
+6,Calvin Klein CK One,fragrances,Calvin Klein,4.37
+7,Chanel Coco Noir Eau De,fragrances,Chanel,4.26
+8,Dior J'adore,fragrances,Dior,3.8
+9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,3.96
+10,Gucci Bloom Eau de,fragrances,Gucci,2.74
+11,Annibale Colombo Bed,furniture,Annibale Colombo,4.77
+12,Annibale Colombo Sofa,furniture,Annibale Colombo,3.92
+13,Bedside Table African Cherry,furniture,Furniture Co.,2.87
+14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,4.88
+15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,3.59
+16,Apple,groceries,,4.19
+17,Beef Steak,groceries,,4.47
+18,Cat Food,groceries,,3.13
+19,Chicken Meat,groceries,,3.19
+20,Cooking Oil,groceries,,4.8
+21,Cucumber,groceries,,4.07
+22,Dog Food,groceries,,4.55
+23,Eggs,groceries,,2.53
+24,Fish Steak,groceries,,3.78
+25,Green Bell Pepper,groceries,,3.25
+26,Green Chili Pepper,groceries,,3.66
+27,Honey Jar,groceries,,3.97
+28,Ice Cream,groceries,,3.39
+29,Juice,groceries,,3.94
+30,Kiwi,groceries,,4.93
+31,Lemon,groceries,,3.53
+32,Milk,groceries,,2.61
+33,Mulberry,groceries,,4.95
+34,Nescafe Coffee,groceries,,4.82
+35,Potatoes,groceries,,4.81
+36,Protein Powder,groceries,,4.18
+37,Red Onions,groceries,,4.2
+38,Rice,groceries,,3.18
+39,Soft Drinks,groceries,,4.75
+40,Strawberry,groceries,,3.08
+41,Tissue Paper Box,groceries,,2.69
+42,Water,groceries,,4.96
+43,Decoration Swing,home-decoration,,3.16
+44,Family Tree Photo Frame,home-decoration,,4.53
+45,House Showpiece Plant,home-decoration,,4.67
+46,Plant Pot,home-decoration,,3.01
+47,Table Lamp,home-decoration,,3.55
+48,Bamboo Spatula,kitchen-accessories,,3.27
+49,Black Aluminium Cup,kitchen-accessories,,4.46
+50,Black Whisk,kitchen-accessories,,3.9
+51,Boxed Blender,kitchen-accessories,,4.56
+52,Carbon Steel Wok,kitchen-accessories,,4.05
+53,Chopping Board,kitchen-accessories,,3.7
+54,Citrus Squeezer Yellow,kitchen-accessories,,4.63
+55,Egg Slicer,kitchen-accessories,,3.09
+56,Electric Stove,kitchen-accessories,,4.11
+57,Fine Mesh Strainer,kitchen-accessories,,3.04
+58,Fork,kitchen-accessories,,3.11
+59,Glass,kitchen-accessories,,4.02
+60,Grater Black,kitchen-accessories,,3.21
+61,Hand Blender,kitchen-accessories,,3.86
+62,Ice Cube Tray,kitchen-accessories,,4.71
+63,Kitchen Sieve,kitchen-accessories,,3.09
+64,Knife,kitchen-accessories,,3.26
+65,Lunch Box,kitchen-accessories,,4.93
+66,Microwave Oven,kitchen-accessories,,4.82
+67,Mug Tree Stand,kitchen-accessories,,2.64
+68,Pan,kitchen-accessories,,2.79
+69,Plate,kitchen-accessories,,3.65
+70,Red Tongs,kitchen-accessories,,4.42
+71,Silver Pot With Glass Cap,kitchen-accessories,,3.22
+72,Slotted Turner,kitchen-accessories,,3.4
+73,Spice Rack,kitchen-accessories,,4.87
+74,Spoon,kitchen-accessories,,4.03
+75,Tray,kitchen-accessories,,4.62
+76,Wooden Rolling Pin,kitchen-accessories,,2.92
+77,Yellow Peeler,kitchen-accessories,,4.24
+78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,3.65
+79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,3.95
+80,Huawei Matebook X Pro,laptops,Huawei,4.98
+81,Lenovo Yoga 920,laptops,Lenovo,2.86
+82,New DELL XPS 13 9300 Laptop,laptops,Dell,2.67
+83,Blue & Black Check Shirt,mens-shirts,Fashion Trends,3.64
+84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,3.18
+85,Man Plaid Shirt,mens-shirts,Classic Wear,3.46
+86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,2.9
+87,Men Check Shirt,mens-shirts,Urban Chic,2.72
+88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,4.77
+89,Nike Baseball Cleats,mens-shoes,Nike,3.88
+90,Puma Future Rider Trainers,mens-shoes,Puma,4.9
+91,Sports Sneakers Off White & Red,mens-shoes,Off White,4.77
+92,Sports Sneakers Off White Red,mens-shoes,Off White,4.69
+93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,4.19
+94,Longines Master Collection,mens-watches,Longines,3.87
+95,Rolex Cellini Date Black Dial,mens-watches,Rolex,4.97
+96,Rolex Cellini Moonphase,mens-watches,Rolex,2.58
+97,Rolex Datejust,mens-watches,Rolex,3.66
+98,Rolex Submariner Watch,mens-watches,Rolex,2.69
+99,Amazon Echo Plus,mobile-accessories,Amazon,4.99
+100,Apple Airpods,mobile-accessories,Apple,4.15

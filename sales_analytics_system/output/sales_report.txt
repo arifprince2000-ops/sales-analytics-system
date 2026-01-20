@@ -1,0 +1,33 @@
+============================================
+           SALES ANALYTICS REPORT           
+Generated:             2026-01-20 22:15:38             
+Records Processed:                      54                     
+============================================
+
+OVERALL SUMMARY
+--------------------------------------------
+Total Revenue:        ₹2,954,600.00
+Total Transactions:   54
+Average Order Value:  ₹54,714.81
+Date Range:           2024-12-01 to 2024-12-30
+
+REGION-WISE PERFORMANCE
+--------------------------------------------
+Region     Sales           % of Total   Transactions
+North      ₹1,141,178      38.62      % 17.0
+South      ₹883,278        29.90      % 12.0
+West       ₹605,777        20.50      % 13.0
+East       ₹311,970        10.56      % 11.0
+
+TOP 5 PRODUCTS
+--------------------------------------------
+1. LaptopPremium             | Qty: 25    | Rev: ₹1,955,515
+2. Monitor                   | Qty: 23    | Rev: ₹332,495
+3. MonitorLED                | Qty: 12    | Rev: ₹132,104
+4. Laptop                    | Qty: 2     | Rev: ₹118,656
+5. External Hard Drive1TB    | Qty: 16    | Rev: ₹103,227
+
+API ENRICHMENT SUMMARY
+--------------------------------------------
+Total products processed: 100
+Success rate:            0.00%
